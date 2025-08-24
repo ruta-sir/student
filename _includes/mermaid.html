@@ -1,34 +1,4 @@
-<!-- Load Mermaid -->
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
-    mermaid.initialize({
-      startOnLoad: false,       // don't auto-render until we tell it to
-      theme: 'dark',            // dark theme
-      securityLevel: 'loose',   // allow styling/custom HTML
-      themeVariables: {
-        primaryColor: '#0d2538',
-        primaryTextColor: '#ffffff',
-        primaryBorderColor: '#1f6f8b',
-        lineColor: '#ffffff',
-        arrowheadColor: '#ffffff'
-      },
-      flowchart: {
-        curve: 'basis' // smoother lines (can also be 'linear' or 'monotoneX')
-      }
-    });
-
-    // Convert fenced code blocks with "mermaid" to actual mermaid divs
-    document.querySelectorAll('pre code.language-mermaid').forEach((block, index) => {
-      const content = block.textContent.trim();
-      const wrapper = document.createElement('div');
-      wrapper.className = 'mermaid';
-      wrapper.id = 'mermaid-' + index;
-      wrapper.textContent = content;
-      block.parentElement.parentNode.replaceChild(wrapper, block.parentElement);
-    });
-
-    // Render all mermaid diagrams
-    mermaid.run();
-  });
+  mermaid.initialize({startOnLoad:true});
 </script>
