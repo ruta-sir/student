@@ -42,6 +42,11 @@ Hi! My name is Ruta Sirdeshmukh
             Turtle
         </div>
     </a>
+    <a href="{{site.baseurl}}/mermaid" style="text-decoration: none;">
+        <div style="background-color: #1E90FF; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Mermaid Diagram
+        </div>
+    </a>
 </div>
 
 <br>
