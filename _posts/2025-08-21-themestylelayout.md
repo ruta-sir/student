@@ -16,24 +16,27 @@ Below are screenshots and documentation proving my progression in theme, style, 
 ### Template Analysis & Understanding
 ![Template Study](/student/assets/images/basictemplate.png)
 
-*(This screenshot shows initial template exploration and design element identification)*
+(This screenshot shows initial template exploration and design element identification)
 
 ### Customization Experiments
 ![Style Experiments](/student/assets/images/templateupdate1.png)
 
-*(This demonstrates various styling attempts and design iterations)*
+(This demonstrates various styling attempts and design iterations)
 
 ### Layout Modifications
 ![Layout Changes](/student/assets/images/layout-modifications.png)
 
-*(This shows successful layout modifications and responsive design implementation)*
+(This shows successful layout modifications and responsive design implementation)
 
 ### Personalized Design Implementation
 ![Final Design](/student/assets/images/personalized-design.png)
 
-*(This is evidence of fully customized and personalized presentation style)*
+(This is evidence of fully customized and personalized presentation style)
 
 ---
-**Skill Status:** ✅ Completed  
+
+**Skill Status:** Completed  
+
 **Mastery Level:** [Update with your self-assessment 1-5]  
+
 **Date Completed:** [Insert completion date]

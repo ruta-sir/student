@@ -16,25 +16,27 @@ Below are screenshots and documentation proving my iterative portfolio developme
 ### Initial Portfolio Setup
 ![Portfolio Start](/student/assets/images/portfolioinitial.png)
 
-*(This screenshot shows initial portfolio structure and basic content organization)*
+(This screenshot shows initial portfolio structure and basic content organization)
 
 ### Blog Implementation Process
 ![Blog Setup](/student/assets/images/blogimplement.png)
 
-*(This demonstrates blog functionality implementation and content management)*
+(This demonstrates blog functionality implementation and content management)
 
 ### Problem-Solving Documentation
 ![Problem Solving](/student/assets/images/imageerror.png)
-![Problem Solving](/student/assets/images/jekyllerror.png)
 
-*(This shows documented problems encountered and solutions implemented)*
+(This shows documented problems encountered and solutions implemented)
 
 ### Iterative Improvements
 ![Portfolio Evolution](/student/assets/images/portfolio-evolution.png)
 
-*(This is evidence of continuous portfolio refinement and enhancement)*
+(This is evidence of continuous portfolio refinement and enhancement)
 
 ---
-**Skill Status:** ✅ Completed  
+
+**Skill Status:** Completed  
+
 **Mastery Level:** [Update with your self-assessment 1-5]  
+
 **Date Completed:** [Insert completion date]

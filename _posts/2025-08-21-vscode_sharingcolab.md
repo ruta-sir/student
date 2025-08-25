@@ -15,19 +15,22 @@ Below are screenshots and documentation proving I successfully completed VSCode 
 
 ### Initial Collaboration Setup
 ![Collaboration Setup](/student/assets/images/liveshareinstall.png)
-*(This screenshot shows initial installation of the LiveShare extension)*
+(This screenshot shows initial installation of the LiveShare extension)
 
 ### LiveShare Session Management
 ![LiveShare Active](/student/assets/images/groupcommit.png)
-**(This demonstrates active LiveShare session with collaborative editing capabilities)**
+(This demonstrates active LiveShare session with collaborative editing capabilities)
 
 ### Peer Collaboration Workflow
 ![Collaborative Coding](/student/assets/images/peercollab.png)
 ![Collaborative Coding](/student/assets/images/peercollab2.png)
 
-*(This is evidence of successful peer collaboration where we had shared problem-solving and created a checklist for specific things to be implemented in our game backend and frontend)*
+(This is evidence of successful peer collaboration where we had shared problem-solving and created a checklist for specific things to be implemented in our game backend and frontend)
 
 ---
-**Skill Status:** ✅ Completed  
+
+**Skill Status:** Completed  
+
 **Mastery Level:** [Update with your self-assessment 1-5]  
+
 **Date Completed:** [Insert completion date]

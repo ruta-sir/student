@@ -16,30 +16,32 @@ Below are screenshots and documentation proving I successfully completed the VSC
 ### Basic VSCode Installation & Initial Setup
 ![Basic Setup](/student/assets/images/vsbasic.png)
 
-*(This screenshot shows the initial VSCode installation with default settings and basic interface)*
+(This screenshot shows the initial VSCode installation with default settings and basic interface)
 
 ### Extension Management & Configuration
 ![Extensions Setup](/student/assets/images/extensions.png)
 
-*(This demonstrates the installation and configuration of essential development extensions)*
+(This demonstrates the installation and configuration of essential development extensions)
 
 ### Advanced Workspace Configuration
 ![Workspace Settings](/student/assets/images/advconfig.png)
 
-*(This shows customized workspace settings, themes, and advanced configuration options)*
+(This shows customized workspace settings, themes, and advanced configuration options)
 
 ### Debugging Workflow Implementation
 ![Debugging Setup](/student/assets/images/debugimp.png)
 
-*(This is evidence of advanced debugging workflows with breakpoints, watch variables, and debug console usage)*
+(This is evidence of advanced debugging workflows with breakpoints, watch variables, and debug console usage)
 
 ### Integrated Terminal & Git Workflows
 ![Terminal Integration](/student/assets/images/integrateterm.png)
 
-*(This demonstrates integrated terminal usage and seamless git workflow integration)*
+(This demonstrates integrated terminal usage and seamless git workflow integration)
 
 ---
 
-**Skill Status:** ✅ Completed  
+**Skill Status:** Completed  
+
 **Mastery Level:** [Update with your self-assessment 1-5]  
+
 **Date Completed:** [Insert completion date]

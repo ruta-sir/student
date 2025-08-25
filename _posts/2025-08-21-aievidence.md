@@ -17,26 +17,28 @@ Below are screenshots and documentation proving my effective AI collaboration an
 ### AI Prompt Development & Strategy
 ![AI Prompts](/student/assets/images/usingai.png)
 
-*(This screenshot shows documented AI prompts and strategic approach to AI interaction. I mainly utilized it for errors especially when my commits were failing and despite spending multiple hours trying to debug it, I was unable to)*
+(This screenshot shows documented AI prompts and strategic approach to AI interaction. I mainly utilized it for errors especially when my commits were failing and despite spending multiple hours trying to debug it, I was unable to)
 
 ### AI Response Analysis & Evaluation
 ![AI Responses](/student/assets/images/airesponses.png)
-
-*(Despite trying to fix the failing commits multiple times, I was unable too. Since I have never been in this situation I asked AI for help and it suggested getting rid of all previous commits using git --force. This gave me a clean slate to start programming again. However, knowing that everything would get erased, I saved all of my previous code as files in a folder to ensure nothing was lost.)*
+*(Despite trying to fix the failing commits multiple times, I was unable too. Since I have never been in this situation I asked AI for help and it suggested getting rid of all previous commits using git --force. This gave me a clean slate to start programming again. However, knowing that everything would get erased, I saved all of my previous code as files in a folder to ensure nothing was lost)
 
 ### Beyond AI: Custom Improvements
 ![AI Improvements](/student/assets/images/aibasic.png)
 ![AI Improvements](/student/assets/images/selfimproved.png)
 
-*(This shows significant customizations and improvements made beyond AI suggestions)*
+(This shows significant customizations and improvements made beyond AI suggestions)
 
 ### Iterative AI Collaboration Process
 ![AI Iteration](/student/assets/images/aihelp1.png)
 ![AI Iteration](/student/assets/images/aihelp2.png)
 
-*(This is evidence of systematic iterative improvement using AI as a collaborative tool)*
+(This is evidence of systematic iterative improvement using AI as a collaborative tool)
 
 ---
-**Skill Status:** ✅ Completed  
+
+**Skill Status:** Completed  
+
 **Mastery Level:** [Update with your self-assessment 1-5]  
+
 **Date Completed:** [Insert completion date]

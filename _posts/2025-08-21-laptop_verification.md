@@ -16,25 +16,27 @@ Below are screenshots and documentation proving I successfully completed the lap
 ### System Configuration Screenshots
 ![System Setup](/student/assets/images/systemconfig.png)
 
-*(This screenshot showing successful installation of development tools and system information)*
+(This screenshot showing successful installation of development tools and system information)
 
 ### Command Line Verification
 ![Terminal Commands](/student/assets/images/terminalver.png)
 
-*(This terminal output demonstrates successful execution of verification commands)*
+(This terminal output demonstrates successful execution of verification commands)
 
 ### Development Environment Setup
 ![IDE Configuration](/student/assets/images/projstructure.png)
 
-*(This is a screenshot of properly configured development environment with extensions and settings)*
+(This is a screenshot of properly configured development environment with extensions and settings)
 
 ### Repository Connection
 ![Git Setup](/student/assets/images/repoconnection.png)
 
-*(This is evidence of successful repository cloning and git configuration)*
+(This is evidence of successful repository cloning and git configuration)
 
 ---
 
-**Skill Status:** ✅ Completed  
+**Skill Status:** Completed
+
 **Mastery Level:** [Update with your self-assessment 1-5]  
+
 **Date Completed:** [Insert completion date]

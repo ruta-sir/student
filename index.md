@@ -4,61 +4,99 @@ title: I'm Ruta Sirdeshmukh
 hide: true
 ---
 
-Hi! My name is Ruta Sirdeshmukh
-
-### Development Environment
-
-> Coding starts with tools, explore these tools and procedures with a click.
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://github.com/Open-Coding-Society/student">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://open-coding-society.github.io/student">
-        <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
-    </a>
-    <a href="https://kasm.nighthawkcodingsociety.com/">
-        <img src="https://img.shields.io/badge/KASM-0078D4?style=for-the-badge&logo=kasm&logoColor=white" alt="KASM">
-    </a>
-    <a href="https://vscode.dev/">
-        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-    </a>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px 20px; border-radius: 15px; margin-bottom: 30px; text-align: center;">
+  <p style="color: rgba(255,255,255,0.9); font-size: 1.2rem; margin: 10px 0 0 0;">
+    Hi, I'm Ruta Sirdeshmukh! Welcome to my coding journey.
+  </p>
 </div>
 
-<br>
+<!-- Featured Projects Section -->
+<div style="margin-bottom: 40px;">
+  <h2 style="color: #764ba2; border-bottom: 3px solid #667eea; padding-bottom: 10px; margin-bottom: 25px;">
+    Featured Projects
+  </h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 20px;">
+    <a href="{{site.baseurl}}/skills-portfolio" style="text-decoration: none; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+      <div style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 25px; border-radius: 12px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3); text-align: center;">
+        <div style="font-size: 2rem; margin-bottom: 10px;">📂</div>
+        <h3 style="margin: 0 0 10px 0; font-size: 1.3rem;">Skills Portfolio</h3>
+        <p style="margin: 0; opacity: 0.9; font-size: 0.95rem;">Showcase of my coding abilities and projects</p>
+      </div>
+    </a>
+    
+    <a href="{{site.baseurl}}/mermaid" style="text-decoration: none; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+      <div style="background: linear-gradient(135deg, #764ba2, #667eea); color: white; padding: 25px; border-radius: 12px; box-shadow: 0 8px 25px rgba(118, 75, 162, 0.3); text-align: center;">
+        <div style="font-size: 2rem; margin-bottom: 10px;">📊</div>
+        <h3 style="margin: 0 0 10px 0; font-size: 1.3rem;">Mermaid Diagram</h3>
+        <p style="margin: 0; opacity: 0.9; font-size: 0.95rem;">Interactive flowcharts and diagrams</p>
+      </div>
+    </a>
+  </div>
+</div>
 
-### Class Progress
+<!-- Development Environment Section -->
+<div style="margin-bottom: 40px;">
+  <h2 style="color: #764ba2; border-bottom: 3px solid #667eea; padding-bottom: 10px; margin-bottom: 25px;">
+    🛠️ Development Environment
+  </h2>
+  <div style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 25px; border-radius: 12px; border-left: 5px solid #764ba2; margin-bottom: 20px;">
+    <p style="color: #5a67d8; font-style: italic; margin: 0; font-size: 1.1rem;">
+      Coding starts with tools, explore these tools and procedures with a click.
+    </p>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 15px;">
+    <a href="https://github.com/Open-Coding-Society/student" style="text-decoration: none; transform: scale(1); transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="width: 100%; border-radius: 8px;">
+    </a>
+    
+    <a href="https://open-coding-society.github.io/student" style="text-decoration: none; transform: scale(1); transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://img.shields.io/badge/GitHub%20Pages-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" style="width: 100%; border-radius: 8px;">
+    </a>
+    
+    <a href="https://kasm.nighthawkcodingsociety.com/" style="text-decoration: none; transform: scale(1); transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://img.shields.io/badge/KASM-667eea?style=for-the-badge&logo=kasm&logoColor=white" alt="KASM" style="width: 100%; border-radius: 8px;">
+    </a>
+    
+    <a href="https://vscode.dev/" style="text-decoration: none; transform: scale(1); transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" style="width: 100%; border-radius: 8px;">
+    </a>
+  </div>
+</div>
 
-> Here is my progress through coding, click to see these online
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<!-- Additional Projects Section -->
+<div style="margin-bottom: 40px;">
+  <h2 style="color: #764ba2; border-bottom: 3px solid #667eea; padding-bottom: 10px; margin-bottom: 25px;">
+    🎮 Interactive Projects
+  </h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
     <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
-        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Snake Game
-        </div>
+      <div style="background: linear-gradient(135deg, #48bb78, #38a169); color: white; padding: 20px; border-radius: 10px; text-align: center; box-shadow: 0 6px 20px rgba(72, 187, 120, 0.3); transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 25px rgba(72, 187, 120, 0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 20px rgba(72, 187, 120, 0.3)'">
+        <div style="font-size: 1.8rem; margin-bottom: 8px;">🐍</div>
+        <div style="font-weight: bold; font-size: 1.1rem;">Snake Game</div>
+      </div>
     </a>
+    
     <a href="{{site.baseurl}}/turtle" style="text-decoration: none;">
-        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle
-        </div>
+      <div style="background: linear-gradient(135deg, #e53e3e, #c53030); color: white; padding: 20px; border-radius: 10px; text-align: center; box-shadow: 0 6px 20px rgba(229, 62, 62, 0.3); transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 25px rgba(229, 62, 62, 0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 20px rgba(229, 62, 62, 0.3)'">
+        <div style="font-size: 1.8rem; margin-bottom: 8px;">🐢</div>
+        <div style="font-weight: bold; font-size: 1.1rem;">Turtle Graphics</div>
+      </div>
     </a>
-    <a href="{{site.baseurl}}/skills-portfolio" style="text-decoration: none;">
-        <div style="background-color: #667eea; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Skills Portfolio
-        </div>
-    </a>
-    <a href="{{site.baseurl}}/mermaid" style="text-decoration: none;">
-        <div style="background-color: #1E90FF; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Mermaid Diagram
-        </div>
-    </a>
+  </div>
 </div>
-
-<br>
 
 <!-- Contact Section -->
-### Get in Touch
-
-> Feel free to reach out if you'd like to collaborate or learn more about our work.
-
-<p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
+<div style="background: linear-gradient(135deg, #f7fafc, #e2e8f0); padding: 30px; border-radius: 12px; border: 2px solid #764ba2; text-align: center;">
+  <h2 style="color: #000000 !important; margin-bottom: 15px;">
+    About This Portfolio
+  </h2>
+  <p style="color: #000000; font-size: 1.1rem; margin-bottom: 20px; line-height: 1.6;">
+    Feel free to reach out if you'd like to collaborate or learn more about our work.
+  </p>
+  <div style="display: inline-block; background: linear-gradient(135deg, #667eea, #764ba2); padding: 12px 24px; border-radius: 25px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);">
+    <span style="color: white; font-weight: 500;">Open Coding Society: </span>
+    <a href="https://opencodingsociety.com" style="color: white; text-decoration: underline; font-weight: bold;">
+      Visit Our Socials
+    </a>
+  </div>
+</div>
