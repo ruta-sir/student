@@ -15,19 +15,24 @@ My student repository creation journey demonstrates **evolution from basic templ
 Below are screenshots and documentation proving my repository creation evolution:
 
 ### Template Fork & Initial Setup
-![Repository Fork](/student/assets/images/repo-fork.png)
+![Repository Fork](/student/assets/images/origrepo.png)
+
 *(This screenshot shows initial repository fork and basic setup process)*
 
 ### File Organization & Structure
-![Repository Structure](/student/assets/images/repo-structure.png)
+![Repository Structure](/student/assets/images/newrepo.png)
+![Repository Structure](/student/assets/images/fork.png)
+
 *(This demonstrates organized file structure and logical project layout)*
 
 ### GitHub Actions Configuration
-![Actions Setup](/student/assets/images/actions-setup.png)
+![Actions Setup](/student/assets/images/successgit.png)
+
 *(This shows successful GitHub Actions configuration and automation workflows)*
 
 ### Personalized Repository Management
-![Repository Management](/student/assets/images/repo-management.png)
+![Repository Management](/student/assets/images/uptodaterepo.png)
+
 *(This is evidence of well-maintained, personalized repository with running Actions)*
 
 ---

@@ -14,20 +14,20 @@ My manifesto evidence demonstrates **collaborative development practices includi
 Below are screenshots and documentation proving my collaborative manifesto practices:
 
 ### Live Review Sessions
-![Live Reviews](/student/assets/images/live-reviews.png)
-*(This screenshot shows active participation in live code review sessions)*
+![Live Reviews](/student/assets/images/groupcommit.png)
 
-### Collaborative Commits & Joint Work
-![Joint Commits](/student/assets/images/collaborative-commits.png)
-*(This demonstrates collaborative commits and shared problem-solving efforts)*
+*(This screenshot shows active participation in live code review sessions and collaborative commits)*
 
-### Peer Review Activities
-![Peer Reviews](/student/assets/images/peer-review-activity.png)
-*(This shows constructive peer review feedback and suggestions provided)*
+### Peer Review Activities and Teaching Documentation
+![Peer Reviews](/student/assets/images/peerfeedback.png)
 
-### Peer Teaching Documentation
-![Peer Teaching](/student/assets/images/peer-teaching.png)
-*(This is evidence of peer teaching sessions and knowledge sharing activities)*
+*(This screenshot shows feedback from CSSE and CSP students along with peer teaching sessions)*
+
+### Peer Feedback
+![Peer Reviews](/student/assets/images/feedbackigave.png)
+
+*(This screenshot shows constructive peer review feedback I left for my peers for the previous checkpoint)*
+
 
 ---
 **Skill Status:** ✅ Completed  

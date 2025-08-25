@@ -15,19 +15,23 @@ My JavaScript frontend basics journey demonstrates **comprehensive learning proc
 Below are screenshots and documentation proving my JavaScript frontend learning process:
 
 ### Initial Learning & Concept Exploration
-![JS Learning Start](/student/assets/images/js-learning-start.png)
+![JS Learning Start](/student/assets/images/learnjs.png)
+
 *(This screenshot shows initial JavaScript learning resources and basic concept exploration)*
 
 ### Code Implementation & Practice
-![JS Implementation](/student/assets/images/js-implementation.png)
-*(This demonstrates practical JavaScript code implementation and functionality development)*
+![JS Implementation](/student/assets/images/jsbasic.png)
+
+*(I started out by doing extremely basic JS which was using the JS mermaid library to create a flowchart for our process in creating our game and implementing it)*
 
 ### Challenge Documentation & Problem Solving
-![JS Challenges](/student/assets/images/js-challenges.png)
+![JS Challenges](/student/assets/images/jekyllerror.png)
+
 *(This shows documented challenges encountered and problem-solving approaches used)*
 
 ### Advanced Understanding & Application
-![JS Advanced](/student/assets/images/js-advanced-understanding.png)
+![JS Advanced](/student/assets/images/jsadvanced.png)
+
 *(This is evidence of advanced JavaScript understanding and sophisticated implementation)*
 
 ---

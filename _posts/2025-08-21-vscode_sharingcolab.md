@@ -18,8 +18,8 @@ Below are screenshots and documentation proving I successfully completed VSCode 
 *(This screenshot shows initial installation of the LiveShare extension)*
 
 ### LiveShare Session Management
-![LiveShare Active](/student/assets/images/liveshare-session.png)
-*(This demonstrates active LiveShare session with collaborative editing capabilities)*
+![LiveShare Active](/student/assets/images/groupcommit.png)
+**(This demonstrates active LiveShare session with collaborative editing capabilities)**
 
 ### Peer Collaboration Workflow
 ![Collaborative Coding](/student/assets/images/peercollab.png)

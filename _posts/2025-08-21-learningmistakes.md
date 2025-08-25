@@ -14,21 +14,15 @@ My learning through mistakes journey demonstrates **comprehensive documentation 
 Below are screenshots and documentation proving my systematic approach to learning from mistakes:
 
 ### Error Documentation & Analysis
-![Error Analysis](/student/assets/images/error-documentation.png)
+![Error Analysis](/student/assets/images/gitfail.png)
 *(This screenshot shows systematic documentation of errors and failure analysis)*
 
 ### Debugging Process Implementation
-![Debugging Process](/student/assets/images/debugging-process.png)
+![Debugging Process](/student/assets/images/gitfix.png)
 *(This demonstrates structured debugging approaches and problem-solving methodologies)*
 
-### Iterative Improvement Cycles
-![Improvement Cycles](/student/assets/images/iterative-improvement.png)
-*(This shows evidence of systematic rework and improvement iterations)*
-
 ### Learning Outcome Documentation
-![Learning Outcomes](/student/assets/images/learning-outcomes.png)
-*(This is evidence of documented learning outcomes and prevention strategies)*
-
+From struggling with the commits and having them constantly fail, I successfully learned how to git --force in order to override what is in my current github repository. This reset my github repo back to only what I had forked from the OCS student repo, giving me the room to start fresh, avoid mistakes that I previously made, and commit more often to prevent having to debug a lot of code in case the commit failed.
 ---
 **Skill Status:** ✅ Completed  
 **Mastery Level:** [Update with your self-assessment 1-5]  

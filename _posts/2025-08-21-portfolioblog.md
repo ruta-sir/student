@@ -14,19 +14,24 @@ My portfolio and blogging hacks journey demonstrates **iterative portfolio devel
 Below are screenshots and documentation proving my iterative portfolio development:
 
 ### Initial Portfolio Setup
-![Portfolio Start](/student/assets/images/portfolio-initial.png)
+![Portfolio Start](/student/assets/images/portfolioinitial.png)
+
 *(This screenshot shows initial portfolio structure and basic content organization)*
 
 ### Blog Implementation Process
-![Blog Setup](/student/assets/images/blog-implementation.png)
+![Blog Setup](/student/assets/images/blogimplement.png)
+
 *(This demonstrates blog functionality implementation and content management)*
 
 ### Problem-Solving Documentation
-![Problem Solving](/student/assets/images/portfolio-problems.png)
+![Problem Solving](/student/assets/images/imageerror.png)
+![Problem Solving](/student/assets/images/jekyllerror.png)
+
 *(This shows documented problems encountered and solutions implemented)*
 
 ### Iterative Improvements
 ![Portfolio Evolution](/student/assets/images/portfolio-evolution.png)
+
 *(This is evidence of continuous portfolio refinement and enhancement)*
 
 ---

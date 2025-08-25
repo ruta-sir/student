@@ -14,19 +14,23 @@ My theme, style, and layout hacks journey demonstrates **progression from basic 
 Below are screenshots and documentation proving my progression in theme, style, and layout:
 
 ### Template Analysis & Understanding
-![Template Study](/student/assets/images/template-analysis.png)
+![Template Study](/student/assets/images/basictemplate.png)
+
 *(This screenshot shows initial template exploration and design element identification)*
 
 ### Customization Experiments
-![Style Experiments](/student/assets/images/style-experiments.png)
+![Style Experiments](/student/assets/images/templateupdate1.png)
+
 *(This demonstrates various styling attempts and design iterations)*
 
 ### Layout Modifications
 ![Layout Changes](/student/assets/images/layout-modifications.png)
+
 *(This shows successful layout modifications and responsive design implementation)*
 
 ### Personalized Design Implementation
 ![Final Design](/student/assets/images/personalized-design.png)
+
 *(This is evidence of fully customized and personalized presentation style)*
 
 ---
