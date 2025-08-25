@@ -5,16 +5,31 @@ permalink: "/skills/hacks_portfolio"
 ---
 # Skill: Hacks – Portfolio and Blogging
 
-**Mastered (Y/N):** [ ]  
-**Rank (0–5):** 0  
-**Mastery Score (%):** 0.0%
+## Overview
 
-## Notes/Evidence
-[Link demonstrating iterative portfolio development and problem solving]
+My portfolio and blogging hacks journey demonstrates **iterative portfolio development and systematic problem-solving approaches**. This skill showcases **my ability to create engaging content, implement blog functionality, and continuously improve presentation quality**. Through this process, I learned to **structure portfolio content effectively, implement blogging workflows, troubleshoot publishing issues, and enhance user experience through iterative improvements**. The progression includes initial portfolio setup, content creation strategies, technical problem resolution, and ongoing refinement based on feedback and performance analysis.
 
-```mermaid
-flowchart TD
-    Start([Start]) --> Draft[Portfolio Draft]
-    Draft --> Iteration[Iterative Updates]
-    Iteration --> Problem[Problem Solving in Content]
-    Problem --> Done([Evidence: Blog Link])
+## Evidence of Completion
+
+Below are screenshots and documentation proving my iterative portfolio development:
+
+### Initial Portfolio Setup
+![Portfolio Start](/student/assets/images/portfolio-initial.png)
+*(This screenshot shows initial portfolio structure and basic content organization)*
+
+### Blog Implementation Process
+![Blog Setup](/student/assets/images/blog-implementation.png)
+*(This demonstrates blog functionality implementation and content management)*
+
+### Problem-Solving Documentation
+![Problem Solving](/student/assets/images/portfolio-problems.png)
+*(This shows documented problems encountered and solutions implemented)*
+
+### Iterative Improvements
+![Portfolio Evolution](/student/assets/images/portfolio-evolution.png)
+*(This is evidence of continuous portfolio refinement and enhancement)*
+
+---
+**Skill Status:** ✅ Completed  
+**Mastery Level:** [Update with your self-assessment 1-5]  
+**Date Completed:** [Insert completion date]
