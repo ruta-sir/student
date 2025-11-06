@@ -14,7 +14,7 @@
       </a>
     </div>
     <div>
-      <a href="{{site.baseurl}}/trimester-review" style="text-decoration: none; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+      <a href="{{site.baseurl}}/trireview" style="text-decoration: none; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
         <div style="background: linear-gradient(135deg, #ff9a9e, #fad0c4); color: white; padding: 25px; border-radius: 12px; box-shadow: 0 8px 25px rgba(255, 154, 158, 0.3); text-align: center;">
           <h3 style="margin: 0 0 10px 0; font-size: 1.3rem;">Trimester 1 Review</h3>
           <p style="margin: 0; opacity: 0.9; font-size: 0.95rem;">Reflection and highlights from the first trimester</p>
@@ -30,7 +30,7 @@
       </a>
     </div>
     <div>
-      <a href="{{site.baseurl}}/resume-builder" style="text-decoration: none; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+      <a href="{{site.baseurl}}/resume" style="text-decoration: none; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
         <div style="background: linear-gradient(135deg, #4facfe, #00f2fe); color: white; padding: 25px; border-radius: 12px; box-shadow: 0 8px 25px rgba(79, 172, 254, 0.3); text-align: center;">
           <h3 style="margin: 0 0 10px 0; font-size: 1.3rem;">CS Resume Builder</h3>
           <p style="margin: 0; opacity: 0.9; font-size: 0.95rem;">Build professional CS resumes easily</p>
