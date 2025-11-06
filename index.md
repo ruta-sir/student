@@ -22,21 +22,12 @@
       </a>
     </div>
     <div>
-      <a href="{{site.baseurl}}/solitaire" style="text-decoration: none; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+      <a href="{{site.baseurl}}/experience" style="text-decoration: none; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
         <div style="background: linear-gradient(135deg, #f093fb, #f5576c); color: white; padding: 25px; border-radius: 12px; box-shadow: 0 8px 25px rgba(240, 147, 251, 0.3); text-align: center;">
-          <h3 style="margin: 0 0 10px 0; font-size: 1.3rem;">Solitaire Game</h3>
-          <p style="margin: 0; opacity: 0.9; font-size: 0.95rem;">Classic card game built with JavaScript</p>
+          <h3 style="margin: 0 0 10px 0; font-size: 1.3rem;">Frontend and Backend Experience</h3>
+          <p style="margin: 0; opacity: 0.9; font-size: 0.95rem;">My experience learning different environments and development in coing</p>
         </div>
       </a>
     </div>
-    <div>
-      <a href="{{site.baseurl}}/resume" style="text-decoration: none; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
-        <div style="background: linear-gradient(135deg, #4facfe, #00f2fe); color: white; padding: 25px; border-radius: 12px; box-shadow: 0 8px 25px rgba(79, 172, 254, 0.3); text-align: center;">
-          <h3 style="margin: 0 0 10px 0; font-size: 1.3rem;">CS Resume Builder</h3>
-          <p style="margin: 0; opacity: 0.9; font-size: 0.95rem;">Build professional CS resumes easily</p>
-        </div>
-      </a>
-    </div>
-
   </div>
 </div>
