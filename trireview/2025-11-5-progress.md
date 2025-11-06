@@ -15,6 +15,9 @@ I’ve developed a strong sense of design and code hygiene.
 
 ## N@tM Reflection
 
+![Spring Repo](/student/assets/images/
+natm.png)
+
 Night at the Museum (N@tM) was a great experience! I got to showcase my project and interact with 
 visitors who were genuinely curious. One comment I really appreciated was:  
 > "The UI was so good and easy to navigate.”  
@@ -64,7 +67,7 @@ appears.
 - Add interactive elements to the featured projects section, like hover effects or modal previews.
 - Implement a backend feature to store user feedback or ratings for each project.
 
-## What I Want to Learn Next in CompSci
+## What I Want to Learn Next in AP CSA
 
 Next, I want to dive deeper into:
 - **Data structures and algorithms** — especially sorting, searching, and graph traversal.
