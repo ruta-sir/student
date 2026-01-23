@@ -8,11 +8,16 @@ author: Ruta Sirdeshmukh
 
 # Screenshots of Working Coderunner
 ![FRQ Coderunner Working](/student/assets/images/2024frq2_1.png)
+
 ![FRQ Coderunner Working](/student/assets/images/2024frq2_2.png)
+
 ![FRQ Coderunner Working](/student/assets/images/2024frq2_3.png)
+
 ![FRQ Coderunner Working](/student/assets/images/2024frq2_4.png)
+
 ![FRQ Coderunner Working](/student/assets/images/2024frq2_5.png)
 
+---
 
 ```java
 
@@ -133,6 +138,8 @@ class Main {
 Main.main(null);
 
 ```
+
+---
 
 # Lesson Takeaways
 
