@@ -84,6 +84,7 @@ This talk pushed me to reframe a few things:
 - **Take the first step without the full map.** In CS and outside of it.
 The biggest surprise of this talk was that none of the most valuable things I took from it were technical. The technical part — building SafeBallot, managing a team, navigating the product — was almost a backdrop to the real lesson, which was about the kind of person you have to become to make any of it possible.
  
- 
+
 ![Picture1](/student/assets/images/elijahjohnson1.png)
+
 ![Picture2](/student/assets/images/elijahjohnson2.jpeg)
