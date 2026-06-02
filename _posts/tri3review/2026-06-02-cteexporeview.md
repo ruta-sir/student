@@ -1,3 +1,11 @@
+---
+layout: post
+title: CTE Expo Reflection
+permalink: /cte-reflection
+comments: True
+author: Ruta Sirdeshmukh
+---
+
 ## CTE Expo Reflection
 
 Going into the CTE Expo, I expected it to be a chance to quickly look at different electives and programs offered on campus. What I didn't expect was how much I would learn simply by talking to students and instructors about what they were pursuing and why they were passionate about it. The event ended up being less about the programs themselves and more about the people behind them.
